@@ -280,6 +280,7 @@ public class MainActivity extends Activity {
         Uri defaultSound = RingtoneManager.getDefaultUri(RingtoneManager.TYPE_NOTIFICATION);
 
         Notification noti = new Notification.Builder(this)
+                .setAutoCancel(true)
                 .setContentIntent(pendingIntent)
                 .setTicker(ticker)
                 .setContentTitle(contentTitle)
