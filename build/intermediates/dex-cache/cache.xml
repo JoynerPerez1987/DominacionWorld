@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\3d6e38813ad5b81ae9b8557c5ad94150\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\play-services-identity-9.0.0.aar\3dd5a53b8384ec44462347329efde1bb\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.0.0.aar\0439d6c56eb4f617b4ed6ecb8945b28e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.0.0.aar\616524c56be9b83beba1652dfd9bbf90\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.0.0.aar\386f0b8f56625107c575ed059978c342\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.0.0.aar\bedb4276ff287124a99aa573a6f504e1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\f0e837f585374fff48eba3f25dd36378\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-23.0.0.aar\2fa4645eaad05c6a39624b81a4d55004\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.0.0.aar\aa55c737a1c4512563357e39fa3d0a4c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-23.0.0.aar\2fa4645eaad05c6a39624b81a4d55004\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.0.aar\79645a0d609c85753c7c9f9fd6ed2276\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\firebase-auth-common-9.0.0.aar\ca507151abceb1bf09289bfc1b8a7bb3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-9.0.0.aar\6b5c35e008c41b622fe2d28585c3cde9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-9.0.0.aar\95812cb208b6318e565b7205b50c968b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\firebase-storage-9.0.0.aar\d2e7ab434e3386fc4c4e96f2beb34000\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.0.aar\343b2b8a3c79cd9b4fb60a3c7d5cea38\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.0.0.aar\437c894110227a0f20e0e2a31ca157a7\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\firebase-database-9.0.0.aar\c49134c79691eb7097835e2d1c367d44\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\firebase-config-9.0.0.aar\fb2943e710b9616f8d5e83313d3c6cce\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.0.0.aar\2234962b63e766ec6c09bd0b2bffd883\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-9.0.0.aar\03c7c2cbe070046c51b73b0ff76df345\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8126914f5bc372a33e27ea90f02412c32468ce8a">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.0.0.aar\6d9dd2d4440ad6493a4f6eb353411cbf\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\play-services-nearby-9.0.0.aar\aeb23328a1b8f67767a3f315aa32fa5b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\play-services-games-9.0.0.aar\6be7e40df39fee50f5eebf0b7d1c7aa0\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2c5bc0ebbe69c9fab587c2216b36ec44ab8f0704">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\play-services-panorama-9.0.0.aar\1c595749378043513e521e82eac62fb4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="67a7d712de3e7d025f4efdcec1da183f764bdbab">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.0.0.aar\310df27be670555cabb15a7e02462faf\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\play-services-fitness-9.0.0.aar\467b0ea1d7b42f417814a362c4a2d5de\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2f7bd8cc7519d5231aa8d2ae8e905d3f602bd491">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\play-services-wallet-9.0.0.aar\7c895978fae493e3e23dce4990d02369\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\play-services-wearable-9.0.0.aar\6688be2c7a93ad4175e0b5e1bde3d6c4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.0.0.aar\c640480a5c95255378001cf4ecad95ba\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.0.aar\3cb1fdd3c411a316da38c79b2d263983\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.0.0.aar\df066a6aba4cb5a36388f358c66a3ba9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.0.aar\5a8812659c2b63450c163f2ba9bf29b8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\be95b778bb9fa55a8ea00155f1b7fe2b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\play-services-drive-9.0.0.aar\d4f6ad7fdb2a5eded4b33e8060ee02a3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\be95b778bb9fa55a8ea00155f1b7fe2b\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\firebase-auth-9.0.0.aar\887fad2235b330b4b8565febe80aea55\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\play-services-plus-9.0.0.aar\96a4ecae6192f246e1addce8e01bba0d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.0.0.aar\b1ec8be8527811d728b2e4e678b7250e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\firebase-auth-module-9.0.0.aar\a99f624e2e20b71eecfbce8a1e3af1ef\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-9.0.0.aar\7b338fb00b4653b4e8d79fd5a5476f15\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.0.0.aar\b1bf9cbc5c71e56e02f0412f13c844e7\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.0.0.aar\b770df2fc82b6a73e571c2b828166be8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-9.0.0.aar\95c74a1457a136b9cbfc1fb7337eed9f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c11cf7a7a6e5adf8fa564303a11dbc351fc11b7c">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.0.0.aar\cba059b2878f20bdc927c1c5a6047c87\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.0.0.aar\799b9db364eabbc71f47822c7d94017c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="69472e334350cafbf442776da05c9a04955252fb">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.0.0.aar\ef62de71d8c0cbb4a23ff2f83bec7843\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cheskin\.gradle\caches\transforms-1\files-1.1\play-services-location-9.0.0.aar\46f2c339d1851ed1e22411655b2dbe31\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
+        <dex dex="C:\Users\Cheskin\Desktop\webview-master (1)\webview-master\app\build\intermediates\transforms\preDex\release\53.jar" />
+    </item>
+
+</items>

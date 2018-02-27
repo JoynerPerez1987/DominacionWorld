@@ -1,0 +1,61 @@
+{
+  "project_info": {
+    "project_number": "1037228516694",
+    "firebase_url": "https://bdsmessenger-3ecd5.firebaseio.com",
+    "project_id": "bdsmessenger-3ecd5",
+    "storage_bucket": "bdsmessenger-3ecd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037228516694:android:e384e916655e0f57",
+        "android_client_info": {
+          "package_name": "com.BDSMessenger.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037228516694-acj423voj9aotjrao1vgi51f0qna5hvu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.BDSMessenger.app",
+            "certificate_hash": "99b7035c196f4f7f4547d9b782c6afce5276a971"
+          }
+        },
+        {
+          "client_id": "1037228516694-3isb1uv0mu4ijbr9jkk4rs2v9obrtvdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvfyV23VaBUPkO06JHNzBuhbyZnLDYlVw"
+        },
+        {
+          "current_key": "AIzaSyCF8i6YvNwoz3lPOATDwyYLORjUbagNtFc"
+        },
+        {
+          "current_key": "AIzaSyDM22ZN4AwGA1HytK9b_iDSJAVGWGIGJOo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037228516694-3isb1uv0mu4ijbr9jkk4rs2v9obrtvdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
